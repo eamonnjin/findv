@@ -1,0 +1,22 @@
+{
+  "name": "findv",
+  "version": "1.0.0",
+  "description": "从嵌套对象中根据路径找出值",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eamonnjin/findv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eamonnjin/findv/issues"
+  },
+  "homepage": "https://github.com/eamonnjin/findv#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
