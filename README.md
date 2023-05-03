@@ -1,2 +1,3 @@
 # findv
 从嵌套对象中根据路径找出值
+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
